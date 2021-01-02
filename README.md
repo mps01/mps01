@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Flutter developer and a Linux enthusiast from India</h3>
 
 - 🔭 I’m currently working on [Wync Ai Radio](https://github.com/mps01/Wync-AI-Radio)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects will be  available at [Coming Soon...]
 
-- 💬 Ask me about **Flutter, Linux or any soulful songs out there.**
+- 💬 Ask me about **Flutter, Linux or any latest tech buzz out there.**
 
 - 📫 How to reach me **madhavendrapsingh@gmail.com**
 

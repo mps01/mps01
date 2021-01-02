@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **madhavendrapsingh@gmail.com**
 
-- ⚡ Fun fact **I once sang on National Television😊**
+- ⚡ Fun fact **I once sang on National Television when I was 6😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

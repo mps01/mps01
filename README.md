@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [AimDb Movie App](https://github.com/mps01/Aimdb-Movie_app)
 
-- 👨‍💻 All of my projects are available at [Coming Soon...](Coming Soon...)
+- 👨‍💻 All of my projects will be  available at [Coming Soon...]
 
 - 💬 Ask me about **Flutter, Linux or any soulful songs out there.**
 
@@ -28,5 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mps01&show_icons=true&locale=en" alt="mps01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mps01&" alt="mps01" /></p>
-
-Support 🙏
+Another Funfact🙌- Just by staring a repo you can make person's day😉.

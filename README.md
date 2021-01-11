@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mps01&show_icons=true&locale=en" alt="mps01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mps01&" alt="mps01" /></p>
-Another Funfact🙌- **Just by staring a repo you can make person's day😉.**
+- 🙌 Another Funfact- **Just by staring a repo you can make person's day😉.**

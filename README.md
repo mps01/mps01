@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Tech.**
 
-- 🤝 I’m looking for help with [Wync Ai Radio](https://github.com/mps01/Wync-AI-Radio)
+- 🤝 I’m open to opportunities and to collaborate
 
 - 👨‍💻 All of my projects will be  available at [Coming Soon...]
 

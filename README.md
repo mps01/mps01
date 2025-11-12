@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav</h1>
 <h3 align="center">A passionate Flutter developer and a Linux enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Google Solution Challenge](https://github.com/mps01/NamasteSoul)
+- 🔭 I’m currently working on a **secret App project**
 
 - 🌱 I’m currently learning **Backend Tech.**
 
